@@ -7,6 +7,6 @@ A simple app which fetches the data from the api __https://api.themoviedb.org__ 
 - Redux
 ## Installation
 Use the package manager npm to install dependencies
-'''Javascript
+```
 npm install
-'''
+```
